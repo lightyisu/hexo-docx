@@ -2,6 +2,8 @@
  "name": "hexo-docx",
  "version": "0.0.1",
  "main": "index.js",
+ "license": "MIT",
+ "repository": "lightyisu/hexo-docx",
  "dependencies": {
   "docx-preview": "^0.1.10"
  }
